@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+#resultContainer{
+    display: flex;
+    justify-content: center;
+}
+table,td{
+    border: solid black;
+}

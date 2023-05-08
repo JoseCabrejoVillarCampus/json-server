@@ -1,0 +1,22 @@
+{
+  "usuarios": [
+    {
+      "id": "123",
+      "nombre": "Miguel",
+      "apellido": "Castro",
+      "edad": "23"
+    },
+    {
+      "id": "bjhbjh",
+      "nombre": "bhj",
+      "apellido": "bj",
+      "edad": "bjhhj"
+    },
+    {
+      "id": "7",
+      "nombre": "feto",
+      "apellido": "sav",
+      "edad": "12"
+    }
+  ]
+}
